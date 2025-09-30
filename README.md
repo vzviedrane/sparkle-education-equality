@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Sparkle — Education Equality Prototype
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Live demo:** 
 
-## Available Scripts
+This is a prototype web application developed under exam conditions for the **Organizational Behaviour** course at Riga Business School.  
+The goal was to explore how key OB frameworks can be translated into a simple digital platform that supports motivation, self-efficacy, and equal access to education.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌍 Context
+- **Course**: Organizational Behaviour — Riga Business School  
+- **My role**: rapid prototyping in React, UI implementation, and presentation of the live demo  
+- **Note**: This is **not** a production-ready app but a proof of concept created within exam time limits.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Frameworks applied:  
+- Expectancy Theory  
+- Self-Efficacy  
+- Big Five Personality Traits  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠 Tech Stack
+- React (Create React App)  
+- JavaScript (ES6+)  
+- CSS3  
+- React Router  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Features
+The prototype includes several pages:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Home** — introduction and navigation entry point  
+- **Dashboard** — overview of student progress and key stats  
+- **Missions** — tasks/assignments to complete, supporting gamification  
+- **Rewards** — badges and points earned by students  
+- **Profile** — student profile and achievements  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⚙️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/vzviedrane/sparkle-education-equality.git
+   cd sparkle-education-equality
+2. Install dependencies:
+   npm install
+3. Start the app:
+   npm start
+The app will be available at http://localhost:3000.
 
-### `npm run eject`
+## 👩‍💻 Author  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Viktorija Zviedrāne**  
+B.Sc. Computer Science — Riga Business School
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
