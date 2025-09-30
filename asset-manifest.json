@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sparkle-education-equality/static/css/main.e6c13ad2.css",
-    "main.js": "/sparkle-education-equality/static/js/main.254821ce.js",
+    "main.js": "/sparkle-education-equality/static/js/main.c4b65e19.js",
     "static/js/453.b7d1b0d5.chunk.js": "/sparkle-education-equality/static/js/453.b7d1b0d5.chunk.js",
     "index.html": "/sparkle-education-equality/index.html",
     "main.e6c13ad2.css.map": "/sparkle-education-equality/static/css/main.e6c13ad2.css.map",
-    "main.254821ce.js.map": "/sparkle-education-equality/static/js/main.254821ce.js.map",
+    "main.c4b65e19.js.map": "/sparkle-education-equality/static/js/main.c4b65e19.js.map",
     "453.b7d1b0d5.chunk.js.map": "/sparkle-education-equality/static/js/453.b7d1b0d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.254821ce.js"
+    "static/js/main.c4b65e19.js"
   ]
 }
