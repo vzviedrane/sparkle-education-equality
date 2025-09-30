@@ -1,6 +1,6 @@
 # Sparkle — Education Equality Prototype
 
-**Live demo:** 
+**Live demo:** https://vzviedrane.github.io/sparkle-education-equality/
 
 This is a prototype web application developed under exam conditions for the **Organizational Behaviour** course at Riga Business School.  
 The goal was to explore how key OB frameworks can be translated into a simple digital platform that supports motivation, self-efficacy, and equal access to education.
