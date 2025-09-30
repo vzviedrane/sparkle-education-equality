@@ -44,8 +44,10 @@ The prototype includes several pages:
    git clone https://github.com/vzviedrane/sparkle-education-equality.git
    cd sparkle-education-equality
 2. Install dependencies:
+   ```bash
    npm install
 3. Start the app:
+   ```bash
    npm start
 The app will be available at http://localhost:3000.
 
